@@ -3,3 +3,4 @@ pyTelegramBotAPI
 cloudscraper
 colorama
 requests
+psycopg2-binary
